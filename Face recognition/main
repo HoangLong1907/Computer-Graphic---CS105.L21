@@ -1,1 +1,6 @@
+Lab - Xử lý ảnh face recognition
+1. Install face-recognition lib cho python 3: pip3 install face-recognition
 
+2. Viết chương trình dùng jupyter-lab google-colab để nhận dạng khuôn mặt qua ảnh hoặc webcam.
+
+3. Viết chương trình để rút trích đặc trưng khuôn mặt : face_landmarks.
